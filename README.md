@@ -10,4 +10,6 @@ Bu projede **Java** dili ve web tarayıcılarını otomatikleştirmek için bir 
 * Instagramdan çıkış yapılması
 <br/>adımlarını izleyen bir Test Otomasyon projesidir.
 
-https://user-images.githubusercontent.com/74559017/230360727-d0d4066f-9fd7-43ca-931d-faacb5cb9ebb.mp4
+
+https://github.com/ceren-aydin/Selenium-Follow-Like-Comment-Testing-Automation-For-Instagram/assets/74559017/69e9ffd2-c14d-40d4-ad0c-f59f5a70c733
+
